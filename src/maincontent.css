@@ -1,0 +1,23 @@
+.main--body {
+    background-image:url('./download.png');
+    background-repeat:no-repeat;
+    background-position:right 90%;
+}
+
+
+.main--title {
+    color:#DEEBF8;
+    padding: 10px;
+
+}
+
+.main--facts > li {
+    font-family:mono-space;
+    color:white;
+    line-height:2;
+    list-style-color:blue;
+}
+.main--facts > li::marker {
+   color: #61DAFB;
+}
+
